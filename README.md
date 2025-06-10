@@ -1,6 +1,6 @@
 # Lingering Arrows Datapack
 
-Tipped arrows create a area effect cloud of their potion effect wherever they land, giving them and the lingering potion in their crafting recipe a purpose. Afterwards, they turn into normal arrows. It's a simple change, but it finally gives tipped arrows an reason to be used. The datapack can be downloaded at https://modrinth.com/datapack/lingering-arrows.
+Tipped arrows create a area effect cloud of their potion effect wherever they land, giving them and the lingering potion in their crafting recipe a purpose. Afterwards, they turn into normal arrows. It's a simple change, but it finally gives tipped arrows an reason to be used. The datapack can be downloaded via [Modrinth](https://modrinth.com/datapack/lingering-arrows).
 
 
 ### Showcase Video (click)
